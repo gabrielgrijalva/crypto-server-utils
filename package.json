@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "description": "Crypto utils for server configuration.",
   "main": "index.js",
-  "typings": "./typings/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Grijalva Flores",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@gabrielgrijalva/crypto-reporters": "^1.1.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
 }
