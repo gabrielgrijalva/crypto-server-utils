@@ -9,7 +9,7 @@
   "author": "Gabriel Grijalva Flores",
   "license": "ISC",
   "dependencies": {
-    "@gabrielgrijalva/crypto-reporters": "^1.1.0",
+    "@gabrielgrijalva/crypto-reporters": "^1.1.1",
     "moment": "^2.29.1"
   },
   "devDependencies": {
