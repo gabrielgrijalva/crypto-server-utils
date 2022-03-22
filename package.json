@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-server-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crypto utils for server configuration.",
   "main": "index.js",
   "scripts": {
