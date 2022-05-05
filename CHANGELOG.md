@@ -1,6 +1,8 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2022-05-05
+- Updated project package-lock file.
 ## [1.0.2] - 2022-03-22
 - Updated project versions of dependencies.
 ## [1.0.1] - 2022-03-22
